@@ -17,3 +17,12 @@
 * 💀 :skull:
 * 💦 :sweat_drops:
 * 🔥 :fire:
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-A (select all)
+- Ctrl-V (paste)
+- Ctrl-C (copy)
+Shortcuts I would like to start using: 
+- Alt-F4 (rage quit)
+- Win-D (show desktop)
+- Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
